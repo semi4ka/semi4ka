@@ -1,5 +1,5 @@
 ### Hi, I am Serhii 👋
-
+Junior Frontend Developer during last year.
 
 
 <p align='center'>
@@ -10,6 +10,13 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:semi4ka3@gmail.com'>semi4ka3@gmail.com</a>
 </p>
+
+## 🛠 Technical Stack
+*   JavaScript/React
+*   MongoDB
+*   NodeJS
+*   RobotFramework/Selenium
+*   GitHub/GitLab
 
 <!--
 **semi4ka/semi4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
