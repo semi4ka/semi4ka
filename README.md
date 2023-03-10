@@ -1,5 +1,5 @@
 ### Hi, I am Serhii 👋
-Junior Frontend Developer during last year.
+JS Developer
 
 
 <p align='center'>
@@ -12,7 +12,8 @@ Junior Frontend Developer during last year.
 </p>
 
 ## 🛠 Technical Stack
-*   JavaScript/React
+*   JavaScript
+*   React
 *   MongoDB
 *   NodeJS
 *   RobotFramework/Selenium
