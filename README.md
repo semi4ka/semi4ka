@@ -1,5 +1,5 @@
 ### Hi, I am Serhii 👋
-JS Developer
+Software Developer
 
 
 <p align='center'>
@@ -13,11 +13,16 @@ JS Developer
 
 ## 🛠 Technical Stack
 *   JavaScript
+*   Php
 *   React
 *   MongoDB
 *   NodeJS
 *   RobotFramework/Selenium
 *   GitHub/GitLab
+*   Html
+*   Css
+*   Git
+*   SqlDb
 
 <!--
 **semi4ka/semi4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
